@@ -10,10 +10,9 @@
   + npm install luxon
 - Tạo một file tên ".env"
 - Ở đây ghi như sau :
-  + BOT_TOKEN=NHẬP_BOT_TOKEN_CỦA BẠN_VÀO_ĐÂY
+  + BOT_TOKEN=NHẬP_BOT_TOKEN_CỦA BẠN_VÀO_ĐÂY *(Token lấy như nào ư ? Hãy lên Youtube search !)*
   + SERVER_ID=NHẬP_ID_SERVER_CỦA_BẠN
   + CHANNEL_ID=NHẬP_ID_CHANNEL_BẠN_DÙNG_ĐỂ_TẠO_GIVEAWAY
-*(Token lấy như nào ư ? Hãy lên Youtube search !)*
 - Sau đó add Bot của bạn vào server Discord mà bạn đã nhập ID vào file .env
 - Quay lại VS Code và nhập lênh sau trên Terminal:
   + node index.js
